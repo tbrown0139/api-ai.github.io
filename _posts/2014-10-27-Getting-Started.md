@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: Getting Started in 2 Minutes
 ---
