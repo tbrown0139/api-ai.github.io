@@ -2,7 +2,7 @@
 layout: post
 title: Comcast Developer Experience with api.ai
 tags:
-- testimonial
+- Testimonial
 - Comcast
 - Hackathon
 ---
