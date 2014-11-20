@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Comcast Developer Experience with api.ai
-tags:
-- Testimonial
-- Comcast
-- Hackathon
+tags: 
+  - Testimonial
+  - Comcast
+  - Hackathon
+published: true
 ---
 
 Mike Fine (Comcast):
@@ -18,12 +19,17 @@ If you're thinking about building an application that involves natural language 
 During the hackathon, Mike created an application that "knows about movies".  Here is an example of how a user could interact with it:
 
 User: Show me movies with Brad Pitt
+
 App: Displays list of movies with Brad Pitt
+
 User: How about ones that also have Angelina Jolie?
+
 App: Brings up movies with both Brad Pitt and Angelina Jolie
+
 User: Nevermind. Show me comedies from 2002 to 2010.
+
 App: Displays list
+
 User: Ones with Louis CK
+
 App: Provides a list of comedies with Louis CK from 2002-2010
-
-
