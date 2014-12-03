@@ -25,8 +25,11 @@ But when all was said and done, one stood above the rest. We are delighted to an
 Among the other noteworthy submissions were Down, Her, Ok Toyota, HyperConnected Car, and the Toyota Connected Dashboard Team. Anna Shi, the creator of Down, also had high praise for api.ai. “Overall I thought the api was very intuitive and easy to use,” she said, listing among her favorite features:
 
 -Description of entities and intents
+
 -Quickstart guide was short and sufficient
+
 -Creating entities and intents were very intuitive
+
 -Plenty of sample code to get a simple project started.
 
 
