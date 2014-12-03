@@ -1,5 +1,12 @@
 ---
-published: false
+layout: post
+title: Toyota Hackathon
+tags: 
+  - Developers
+  - Toyota
+  - Hackathon
+  - Prize
+published: true
 ---
 
 Hackers from around the Valley gathered at NestGSV last month for the 2014 Toyota ITC Connected Vehicle Hackathon – a 24-hour marathon programming session that gave developers a taste of working with the new Toyota API. Api.ai shined brilliantly alongside other veteran sponsors such as Twilio, Sensory, SmartThings, and Pebble, impressing competing hackers and industry-leading partners alike. Within the first hour of the competition, Sleek-Geek founder JeanCarl Bisson tweeted: “Already got @api_ai working at the #toyotahackathon14.  Very developer friendly!” 
