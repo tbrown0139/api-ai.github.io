@@ -1,7 +1,10 @@
 ---
-published: false
+layout: post
+title: Create Intents with System Entities
+tags: 
+  - System Entities
+published: true
 ---
-
 
 For your convenience, we have included pre-defined system entities.  We take care of common entities so that you don’t have to.  System entities include things such as countries, capitals, cities, US states/counties, music artists/albums/genres/songs, times, dates, numbers, names, colors and more (you can find a list [here](http://api.ai/docs/getting-started/entity-overview.html)). When you use the system entities, there is variability included for incoming values (e.g. USA can be referred to as the States or the United States of America).
 
