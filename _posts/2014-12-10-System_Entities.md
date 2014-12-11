@@ -6,7 +6,7 @@ tags:
 published: true
 ---
 
-For your convenience, we have included pre-defined system entities.  We take care of common entities so that you don’t have to.  System entities include things such as countries, capitals, cities, US states/counties, music artists/albums/genres/songs, times, dates, numbers, names, colors and more (you can find a list [here](http://api.ai/docs/getting-started/entity-overview.html)). When you use the system entities, there is variability included for incoming values (e.g. USA can be referred to as the States or the United States of America).
+For your convenience, we have included pre-defined system entities.  We take care of common entities so that you don’t have to.  System entities include things such as countries, capitals, music artists/genres, times, dates, numbers, names, colors and more (you can find a list in the [entity overview](http://api.ai/docs/getting-started/entity-overview.html#system-entities)). When you use the system entities, there is variability included for incoming values (e.g. USA can be referred to as the States or the United States of America).
 
 A simple example is found below, where we are including a few system entities for an intent to travel. 
 
