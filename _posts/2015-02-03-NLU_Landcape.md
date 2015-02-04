@@ -1,8 +1,14 @@
 ---
-published: false
+layout: post
+title: Facebook, why? What does Wit.ai’s recent acquisition mean for the NLU field?
+tags: 
+  - Facebook 
+  - Acquisition
+  - Wit.ai
+published: true
 ---
 
-Facebook, why? What does Wit.ai’s recent acquisition mean for the NLU field?
+
  
 Understanding the basics…
  
