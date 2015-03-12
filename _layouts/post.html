@@ -27,14 +27,23 @@ layout: default
 		  {% include disqus.html disqus_identifier=page.disqus_identifier %}
 		</article>
     </div>
-	<div class="col-md-4 recent-posts">
-		<h2>Recent posts</h2>
-		<hr>
-			{% for post in site.posts limit:10 %}  
-			   <p>  
-				   <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>  
-			   </p>  
-			{% endfor %}  
+	<div class="col-md-4">
+		<div class="row">
+			<div class="recent-posts"> 
+				<h2>Recent posts</h2>
+				<hr>
+				{% for post in site.posts limit:10 %}  
+				<p>  
+				   <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+				</p>  
+				{% endfor %}  
+			</div>
+			<div class="advert-sidebar">
+				<strong>api.ai</strong>
+				<p class="text-info">Speech interface for apps and devices</p>
+				<a class="btn btn-primary" href="http://api.ai">Get Started Now</a>
+			</div>
+		</div>		
 	</div>
 </div>
 
