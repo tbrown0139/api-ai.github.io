@@ -10,20 +10,22 @@
 @import "_all";
 @import "_stroke";
 @import "_website_template";
-@import "_api.css";
+@import "_api";
 
 
 .post { 
 	
   color: rgb(85,85, 85);
-  font-family: $helvetica;
+  font-family: $roboto;
   font-weight: 300;
-  line-height: 1.5em;
-  font-size: 1.25em;
+  line-height: 1.8em;
+  font-size: 1.1em;
   
   
   h1 {
-  	  color: rgb(85,85, 85);
+  	  color: $darkGray;
+      font-family: $robotoSlab;
+      font-weight: normal;
   }
   
   p {
