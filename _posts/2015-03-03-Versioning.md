@@ -14,7 +14,7 @@ Introduction of the versioning support will allow us to add new functions and ma
 
 Couple of examples of such changes:
 	* Domains functionality that you might already have seen in the console
-	* Enhacing the return formats for system entities. E.g. ```@sys.date``` entity will be handling dates both in the future and in the past.
+	* Enhancing the return formats for system entities. E.g. ```@sys.date``` entity will be handling dates both in the future and in the past.
 
 To use it, include ```v=YYYYMMDD``` parameter when you make a request. For example, 
 ```
