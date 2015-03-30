@@ -13,6 +13,7 @@ We are announcing that **starting June 1, 2015**, the versioning ```v``` paramet
 Introduction of the versioning support will allow us to add new functions and make improvements to api.ai that are not backwards compatible. We are using the approach proposed in [Foursquare API](https://developer.foursquare.com/overview/versioning).
 
 Couple of examples of such changes:
+
   * Domains functionality that you might already have seen in the console
   * Enhancing the return formats for system entities. E.g. ```@sys.date``` entity will be handling dates both in the future and in the past.
 
