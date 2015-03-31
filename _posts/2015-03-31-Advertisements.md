@@ -1,8 +1,12 @@
 ---
-published: false
+layout: post
+title: "Why not interact with advertisements?"
+tags: 
+  - interactive advertisements
+  - voice enabled ads
+published: true
 ---
 
-## Why not interact with advertisements?
 
 
 Do you remember the “olden days” when we had to watch TV commercials? We zoned out during irrelevant radio promos, muted Spotify blurbs, and desperately pressed “skip” to YouTube ads. Oh wait – it’s still that way.  Digital advertising is a multi-billion dollar industry and yet it is in need of some top-notch innovation.  They really haven’t had many options, until now...
