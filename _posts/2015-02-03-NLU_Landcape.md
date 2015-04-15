@@ -5,7 +5,7 @@ tags:
   - Facebook
   - Acquisition
   - Wit.ai
-published: true
+published: false
 ---
 
 ### Understanding the basics… 
