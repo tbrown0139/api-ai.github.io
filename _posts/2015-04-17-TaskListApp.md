@@ -1,9 +1,16 @@
 ---
-published: false
+layout: post
+title: "Voice Enabling TaskList App with api.ai"
+tags: 
+  - Demo
+  - Android
+  - App Integration
+published: true
 ---
 
 To help you get started in voice enabling your own Android apps, we have put together a basic implementation walkthrough.   For this demonstration, we have decided to start with an open source task list and turn it into a smart task list that people can easily interact with on the go.
 
+<iframe src="//player.youtube.com/watch?v=kz_xCEPNJGw" width="500" height="281" frameborder="0" align="center" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 
 Link to android SDK: [HERE](https://github.com/api-ai/api-ai-android-sdk)
 
