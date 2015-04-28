@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: "Speech Interface: The Remote You Can’t Lose"
+tags: 
+  - Universal Remote
+  - Future
+published: true
 ---
 
 There’s a word for having a remote control for every possible electronic in your life -- convenient. Whether you’re settling down to finish some work or tucked in for the night, remote controls add even more convenience to the technology they’re paired with. Until you lose them, their batteries die, or one system requires 3+ remotes just to turn it on. Remotes were the solution for the 20th century, but now we have something better: speech interface.
