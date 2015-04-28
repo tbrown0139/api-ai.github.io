@@ -1,3 +1,9 @@
+h1 a {
+    color: $darkGray;
+}
+h1 a:hover {
+    
+}
 .map-contributors {
     position: absolute;
     width: 1280px;
@@ -58,4 +64,24 @@
     color: #ffffff;
 }
 /* /Left side guide */
+.recent-posts {
+    padding: 15px;
+}
+.post-info {
+    color: $lightGray;
+}
+.recent-posts h2 {
+    font-family: $robotoSlab;
+    color: $gray;
+}
+.advert-sidebar {
+    margin-top: 20px;
+    border: 1px solid #e2e2e2;
+    border-radius: 4px;
+    padding: 15px;
+    margin: 15px;
+}
+.btn {
+    border-radius: 4px;
+}
 

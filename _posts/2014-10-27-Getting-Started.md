@@ -2,9 +2,9 @@
 layout: post
 title: Getting Started in 2 Minutes
 tags:
-- getting started
-- tutorial
-- video
+- Getting Started
+- Tutorial
+- Video
 ---
 
 Here's how to get started with [api.ai](http://api.ai) in 2 mins:
