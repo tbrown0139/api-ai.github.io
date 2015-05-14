@@ -26,7 +26,7 @@ The entities object accepts an array of entities, following the format used in h
 
 The submitted entities will replace entities defined in the developer console just for this one request.
 
-<img src="/images/example.png" width="636" />
+<img src="/images/example.png" />
 
 
 Here's the curl example:
