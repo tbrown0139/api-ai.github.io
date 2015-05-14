@@ -26,7 +26,7 @@ The entities object accepts an array of entities, following the format used in h
 
 The submitted entities will replace entities defined in the developer console just for this one request.
 
-<img src="/images/example.png" width="300" />
+<img src="/images/example.png" width="500" />
 
 
 Here's the curl example:
@@ -39,7 +39,7 @@ The specified entity needs to exist in the developer console. The UI does not al
 On the Android SDK level:
 To use the SDK please use the directive below instead of pulling it from the repo: 
 	
-<img src="/images/SDKdirective.png" width="200"/>
+<img src="/images/SDKdirective.png" width="300"/>
 
 Usage example:
 
