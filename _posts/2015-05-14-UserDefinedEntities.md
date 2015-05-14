@@ -1,5 +1,11 @@
 ---
-published: false
+layout: post
+title: User Defined Entities
+tags: 
+  - Entities
+  - User Specific Entities
+  - Request Level Entities
+published: true
 ---
 
 As an api.ai super user, you already understand the power behind the platform.  Your implementation is reaching its final stage, and you have started to ask for more advanced capabilities.  Most frequently, developers just like you are interested in being able to customize entities on the user/request level.  
@@ -20,10 +26,12 @@ The entities object accepts an array of entities, following the format used in h
 
 The submitted entities will replace entities defined in the developer console just for this one request.
 
+<img src="/images/example.png" width="636" />
 
 
 Here's the curl example:
 
+<img src="/images/Curl.png" width="636" />
 
 
 The specified entity needs to exist in the developer console. The UI does not allow for creating an empty entity, so you must have some default value there.
@@ -31,10 +39,11 @@ The specified entity needs to exist in the developer console. The UI does not al
 On the Android SDK level:
 To use the SDK please use the directive below instead of pulling it from the repo: 
 	
-    
+<img src="/images/SDKdirective.png" width="636" />
 
 Usage example:
-	
+
+<img src="/images/UsageExample.png" width="636" />	
   
 
 Finer grain controls for the entities are coming soon.
