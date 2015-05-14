@@ -39,7 +39,7 @@ The specified entity needs to exist in the developer console. The UI does not al
 On the Android SDK level:
 To use the SDK please use the directive below instead of pulling it from the repo: 
 	
-<img src="/images/SDKdirective.png" width="200" />
+<img src="/images/SDKdirective.png" />
 
 Usage example:
 
