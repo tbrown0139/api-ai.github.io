@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+title: How to Onboard Users in the 21st Century
+tags: 
+  - Onboarding
+  - Interactive Help
+published: true
 ---
 
 
@@ -17,7 +22,7 @@ When it comes to new, exciting technology, who has the patience to read through 
 
 2) App tells person how to do X 
 
-3) Person wants to know more, they ask
+3) Person wants to know more, they ask.
 
 Imagine: your user turns on their new device, they are greeted by a virtual assistant that allows for an interactive question and answer learning session. They ask just enough to get started and then they’re off – enjoying your creation! If they get stuck later on, that virtual assistant is always there to answer with how-to’s and tips.
 
