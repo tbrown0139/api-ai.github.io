@@ -22,7 +22,7 @@ Populate the entity with default values (e.g. @houselocation has:Kitchen, Living
 
 
 3) Utilize the new entities parameter in the query endpoint.
-The entities object accepts an array of entities, following the format used [here](http://api.ai/docs/reference/#get-eid)
+The entities object accepts an array of entities, following the format used [here](http://api.ai/docs/reference/#get-eid).
 
 The submitted entities will replace entities defined in the developer console just for this one request.
 
