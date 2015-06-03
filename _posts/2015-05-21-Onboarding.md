@@ -1,16 +1,9 @@
 ---
 layout: post
-title: A Speech Interface in 3 Steps
+title: Onboarding Users in the 21st Century
 tags: 
-  - Speech Interface
-  - Voice Recognition
-  - NLU
-  - Natural Language Understanding
-  - Conversation Managment
-  - Dialog Managment
-  - Fulfillment
-  - ASR
-  - How To
+  - Onboarding
+  - Tutorial
 published: true
 ---
 
