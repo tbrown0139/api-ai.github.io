@@ -1,5 +1,17 @@
 ---
-published: false
+layout: post
+title: A Speech Interface in 3 Steps
+tags:
+  - Speech Interface
+  - Voice Recognition
+  - NLU
+  - Natural Language Understanding
+  - Conversation Managment
+  - Dialog Managment
+  - Fulfillment
+  - ASR
+  - How To
+published: true
 ---
 
 Even a capable developer can get fumbled by the components of a full speech interface.  Some might think, “Voice recognition sounds good enough,” but that’s just the first step. Voice recognition can fulfill your dictation needs, but when applied to use cases that call for a full voice interface, it’s not only inefficient, it’s the lead cause of users screaming and cursing at their technology. It’s our privilege and sacred duty to set the record straight.
