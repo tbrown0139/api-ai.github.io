@@ -1,5 +1,13 @@
 ---
-published: false
+layout: post
+title: "Better Than the Best Customer Service"
+tags: 
+  - Customer Service
+  - Customer Care
+  - Twilio
+  - Forbes
+  - Virtual Agent
+published: true
 ---
 
 
