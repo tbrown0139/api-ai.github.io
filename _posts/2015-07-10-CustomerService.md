@@ -24,5 +24,5 @@ The strategy and technology behind that automated customer service technology le
 
 By leveraging the api.ai platform, we can help companies automate their customer service through human-like conversations that understand natural language.  This technology understands a customer’s problem and is capable of answering questions as well as resolving issues in real time.  Therefore, customer service representatives can focus on more complex problems and other value-adding activities.
 
-Of course, this technology can be deployed across all of your digital channels including text, voice, web, mobile and 3rd party API integrations.  Multi-channel support empowers customers to seamlessly receive consistent service regardless of the platform. But it doesn’t stop there! Check out Forbes’ article on how api.ai integrated with Twilio, adds all new insight to communication: http://onforb.es/1K8reff
+Of course, this technology can be deployed across all of your digital channels including text, voice, web, mobile and 3rd party API integrations.  Multi-channel support empowers customers to seamlessly receive consistent service regardless of the platform. But it doesn’t stop there! Check out Forbes’ article on how api.ai integrated with Twilio, adds all new insight to communication [here](http://onforb.es/1K8reff).
 
